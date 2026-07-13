@@ -19,8 +19,9 @@ import feedparser
 # ============================================================
 
 KEYWORD_GROUPS = [
-    ["ocular blood flow", "flicker"],
-    ["Ninjurin1", "retina"],
+    ["strabismus", "amblyopia"],
+    ["amblyopia"],
+    ["strabismus"],
 ]
 
 RSS_FEEDS = [
